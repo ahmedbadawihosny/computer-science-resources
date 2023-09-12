@@ -1,1 +1,1 @@
-# EELU-level1
+# computer sciencs resources
