@@ -42,7 +42,7 @@
 ----
 
 <p align="center">
- <img src="img/Images of the repo/computer science resource.svg"/>
+ <img src="https://github.com/ahmedbadawihosny/computer-science-resources/blob/master/Img/Images%20of%20the%20repo/computer%20science%20resource.svg"/>
 </p>
 
 ![keep learning](https://i.imgur.com/REQK0VU.jpg)
