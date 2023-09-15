@@ -1,1 +1,0 @@
-# computer sciencs resources
