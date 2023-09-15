@@ -1,0 +1,46 @@
+Harvard University Computer Science Courses
+
+CS109: Introduction to Data Science (undergraduate)
+CS110: Introduction to Computer Graphics (undergraduate)
+CS121: Introduction to Algorithms (undergraduate)
+CS122: Design and Analysis of Algorithms (undergraduate)
+CS124: Operating Systems (undergraduate)
+CS125: Computer Networks (undergraduate)
+CS140: Programming Languages (undergraduate)
+CS181: Artificial Intelligence (undergraduate)
+CS201: Software Engineering (undergraduate)
+CS211: Database Systems (undergraduate)
+CS220: Machine Learning (undergraduate)
+CS221: Natural Language Processing (undergraduate)
+CS256: Computer Security (undergraduate)
+CS270: Computer Vision (undergraduate)
+CS280: Numerical Analysis (undergraduate)
+CS290: Theory of Computation (undergraduate)
+
+Harvard University Computer Science Graduate Courses
+CS281: Numerical Linear Algebra
+CS282: Computational Geometry
+CS283: Computational Complexity
+CS284: Algorithms for Machine Learning
+CS285: High Performance Computing
+CS286: Computer Graphics
+CS287: Operating Systems
+CS288: Computer Networks
+CS289: Programming Languages
+CS291: Artificial Intelligence
+CS292: Natural Language Processing
+CS293: Machine Learning
+CS294: Computer Security
+CS295: Computer Vision
+CS296: Robotics
+CS297: Systems Biology
+CS298: Computational Social Science
+
+These are just a few examples of the many computer science courses offered at Harvard University.
+The curriculum is designed to give students a strong foundation in the fundamentals of computer science,
+as well as exposure to a variety of specialized areas of study.
+In addition to the courses listed above, Harvard also offers a number of research opportunities for computer science students.
+Students can work with faculty on cutting-edge research projects in areas such as artificial intelligence, machine learning
+, computer graphics, and more.
+Harvard's computer science program is one of the most highly ranked in the world.
+Graduates of the program go on to successful careers in a variety of fields, including industry, academia, and government.
