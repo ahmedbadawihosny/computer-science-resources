@@ -34,7 +34,7 @@
 
   <p align="center">
     <a href="">
-      <img width="600" height="360" src="img/Images of the repo/Computer Science road-map.png">
+      <img width="600" height="360" src="https://github.com/ahmedbadawihosny/computer-science-resources/blob/master/Img/Images%20of%20the%20repo/Computer%20Science%20road-map.png">
     </a>
   </p>
   <br>
